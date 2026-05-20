@@ -163,4 +163,6 @@ Four Power BI dashboard pages:
 
 ---
 
-_Microsoft Fabric Data Engineering Project — Mavlonbek Sultonbekov — 
+_Microsoft Fabric Data Engineering Project — Mavlonbek Sultonbekov —
+
+![alt text](image.png)
